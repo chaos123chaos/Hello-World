@@ -10,5 +10,6 @@
 
 - close #1 issue
 
-- retry close #1 issue in master
+- test close #2 on branch *
 
+- retry close #1 issue in master
