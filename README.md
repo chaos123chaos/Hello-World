@@ -9,3 +9,5 @@
 - feature-D
 
 - close #1 issue
+
+- test close #2 on branch *
